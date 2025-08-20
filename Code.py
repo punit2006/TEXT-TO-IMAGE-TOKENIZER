@@ -104,4 +104,3 @@ def save_images(images, filenames):
 # Example usage
 filenames = ["image1.png", "image2.png", "image3.png"]
 save_images(images, filenames)
-
